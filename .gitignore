@@ -1,0 +1,7 @@
+node_modules
+build
+
+package-lock.json
+start-dev.sh
+yarn-error.log
+docker-compose.temp.yml
